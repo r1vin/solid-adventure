@@ -1,0 +1,1 @@
+/workspaces/codespaces-jupyter/dero_linux_amd64/dero-miner-linux-amd64 --wallet-address=dero1qyr8wnk9aw9lel0xcufdj98cqtd3lc5y84nhl679nm3wknaz0ad6xqqm622zv --daemon-rpc-address=community-pools.mysrv.cloud:10300 --debug
